@@ -1,5 +1,5 @@
-table top games
-video games
-rock climbing
-cooking
-crafting
+- table top games
+- video games
+- rock climbing
+- cooking
+- crafting
